@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/RIDV483Psp1TbGe+eaLOzzohrdZXroP40kDkV15Z9p4tk7g8zOsmvKNxiwEdZhTg+SSrT5GG1wQGMEnO9P5tg==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\Personal Project\\Coding Challange\\elevator-control-system\\elevator-control-system\\elevator-control-system\\elevator-control-system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haider.arshad\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\haider.arshad\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\haider.arshad\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\haider.arshad\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\haider.arshad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\haider.arshad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
